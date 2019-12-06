@@ -1,5 +1,5 @@
 # NonyeDPSS
 first training for Nonye
 
-Hello everyone, this is mu new repositiry
+Hello everyone, this is my new repositiry
 It will be interesting
